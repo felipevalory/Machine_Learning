@@ -26,6 +26,7 @@ The final output will include 7 comparative tables showing the performance of th
 
 - Python 3.11.4
 - Scikit-learn
+- Jupyter Notebook
 
 ## Development
 
@@ -52,13 +53,20 @@ I used **Python** to train each algorithm and adjust the parameters controlling 
 ## Results
 
 ### Classification Experiments
-(Add image)
+
+![Classification results](/img/classification.jpg)
 
 ### Regression Experiments
-(Add image)
+
+![Regression results - Training](/img/regression_trainin.jpg)
+
+![Regression results - Validation](/img/regression_validation.jpg)
+
+![Regression results - Test](/img/regression_test.jpg)
 
 ### Clustering Experiments
-(Add image)
+
+![Clustering results](/img/clusterization.jpg)
 
 ## Conclusion
 
