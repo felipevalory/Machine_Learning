@@ -58,7 +58,7 @@ I used **Python** to train each algorithm and adjust the parameters controlling 
 
 ### Regression Experiments
 
-![Regression results - Training](/img/regression_trainin.jpg)
+![Regression results - Training](/img/regression_training.jpg)
 
 ![Regression results - Validation](/img/regression_validation.jpg)
 
